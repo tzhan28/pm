@@ -23,7 +23,7 @@ None
 ### 3. Community vision
 
 - _Tina:_ TODO
-  - _Liu Jie:_ TODO
+  - _Liu Jie:_ TODO test
     - _Mike:_ TODO
   - _Tina:_ TODO
   - _Liu Jie:_ TODO
